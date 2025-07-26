@@ -3,10 +3,13 @@
 ### 🔰 Internship Task 1 - CodeAlpha (July 2025)
 
 This project is a part of my **Machine Learning Internship** at **CodeAlpha**. The goal of this task is to develop a **Credit Scoring Model** with the help of classification algorithms like Logistic Regression, Decision Trees, or Random Forest.
+
 ---
 
 ## 📌 Project Objective
+
 Predict an individual's creditworthiness using past financial data.
+
 ---
 
 ## Key Features:
