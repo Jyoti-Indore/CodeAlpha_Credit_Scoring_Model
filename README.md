@@ -6,12 +6,13 @@ This project is a part of my **Machine Learning Internship** at **CodeAlpha**. T
 ---
 
 ## 📌 Project Objective
-
 Predict an individual's creditworthiness using past financial data.
 ---
+
 ## Key Features:
 ● Feature engineering from financial history.
 ● Model accuracy assessment using metrics like Precision, Recall, F1-Score, ROC-AUC.
+
 ---
 
 ## 🧠 Technologies Used
